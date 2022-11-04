@@ -1,0 +1,40 @@
+C:\Users\Jerry\Desktop\Cosulea Iuliana\Test de compatibilitate\bin\Debug\Test de compatibilitate.exe.config
+C:\Users\Jerry\Desktop\Cosulea Iuliana\Test de compatibilitate\bin\Debug\Test de compatibilitate.exe
+C:\Users\Jerry\Desktop\Cosulea Iuliana\Test de compatibilitate\bin\Debug\Test de compatibilitate.pdb
+C:\Users\Jerry\Desktop\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.csprojAssemblyReference.cache
+C:\Users\Jerry\Desktop\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test_de_compatibilitate.Form1.resources
+C:\Users\Jerry\Desktop\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test_de_compatibilitate.Properties.Resources.resources
+C:\Users\Jerry\Desktop\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.csproj.GenerateResource.cache
+C:\Users\Jerry\Desktop\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Desktop\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.exe
+C:\Users\Jerry\Desktop\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.pdb
+C:\Users\Jerry\Desktop\scoala\Info\c#\Proiect aplicatie C#\Cosulea Iuliana\Cosulea Iuliana\Test de compatibilitate\bin\Debug\Test de compatibilitate.exe.config
+C:\Users\Jerry\Desktop\scoala\Info\c#\Proiect aplicatie C#\Cosulea Iuliana\Cosulea Iuliana\Test de compatibilitate\bin\Debug\Test de compatibilitate.exe
+C:\Users\Jerry\Desktop\scoala\Info\c#\Proiect aplicatie C#\Cosulea Iuliana\Cosulea Iuliana\Test de compatibilitate\bin\Debug\Test de compatibilitate.pdb
+C:\Users\Jerry\Desktop\scoala\Info\c#\Proiect aplicatie C#\Cosulea Iuliana\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.csprojAssemblyReference.cache
+C:\Users\Jerry\Desktop\scoala\Info\c#\Proiect aplicatie C#\Cosulea Iuliana\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test_de_compatibilitate.Form1.resources
+C:\Users\Jerry\Desktop\scoala\Info\c#\Proiect aplicatie C#\Cosulea Iuliana\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test_de_compatibilitate.Properties.Resources.resources
+C:\Users\Jerry\Desktop\scoala\Info\c#\Proiect aplicatie C#\Cosulea Iuliana\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.csproj.GenerateResource.cache
+C:\Users\Jerry\Desktop\scoala\Info\c#\Proiect aplicatie C#\Cosulea Iuliana\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Desktop\scoala\Info\c#\Proiect aplicatie C#\Cosulea Iuliana\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.exe
+C:\Users\Jerry\Desktop\scoala\Info\c#\Proiect aplicatie C#\Cosulea Iuliana\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.pdb
+C:\Users\Jerry\Desktop\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\bin\Debug\Test de compatibilitate.exe.config
+C:\Users\Jerry\Desktop\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\bin\Debug\Test de compatibilitate.exe
+C:\Users\Jerry\Desktop\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\bin\Debug\Test de compatibilitate.pdb
+C:\Users\Jerry\Desktop\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.csprojAssemblyReference.cache
+C:\Users\Jerry\Desktop\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test_de_compatibilitate.Form1.resources
+C:\Users\Jerry\Desktop\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test_de_compatibilitate.Properties.Resources.resources
+C:\Users\Jerry\Desktop\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.csproj.GenerateResource.cache
+C:\Users\Jerry\Desktop\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Desktop\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.exe
+C:\Users\Jerry\Desktop\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.pdb
+G:\scoala\atestat\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\bin\Debug\Test de compatibilitate.exe.config
+G:\scoala\atestat\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\bin\Debug\Test de compatibilitate.exe
+G:\scoala\atestat\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\bin\Debug\Test de compatibilitate.pdb
+G:\scoala\atestat\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.csproj.AssemblyReference.cache
+G:\scoala\atestat\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test_de_compatibilitate.Form1.resources
+G:\scoala\atestat\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test_de_compatibilitate.Properties.Resources.resources
+G:\scoala\atestat\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.csproj.GenerateResource.cache
+G:\scoala\atestat\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.csproj.CoreCompileInputs.cache
+G:\scoala\atestat\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.exe
+G:\scoala\atestat\ATESTAT INFO\Aplicatie\Cosulea Iuliana\Test de compatibilitate\obj\Debug\Test de compatibilitate.pdb
